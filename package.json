@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "preinstall": "npm config set audit false"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@remix-run/node": "^2.15.3",
